@@ -70,5 +70,3 @@ To create a student database and execute DDL queries using SQL.
 
 ## Result:
          Thus the basic DDL commands in SQL are executed. 
-
-
